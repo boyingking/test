@@ -53,10 +53,7 @@ public class MaxProfile {
             }
 
         }
-
-
-
-        return max;
+        return max; //////
     }
 
 }
